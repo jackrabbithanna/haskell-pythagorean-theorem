@@ -12,9 +12,13 @@ Installing Haskell Stack
 https://docs.haskellstack.org/en/stable/GUIDE/#downloading-and-installation
 
 After installing Haskell Stack
+
 git clone https://github.com/jackrabbithanna/haskell-pythagorean-theorem.git
+
 cd haskell-pythagorean-theorem
+
 stack setup
+
 stack build
 
 To run:
