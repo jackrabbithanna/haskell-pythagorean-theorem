@@ -3,5 +3,5 @@ module RoundTo
     ) where
 
 import Numeric
-roundTo :: RealFloat a => a -> Int -> Double
+roundTo :: RealFloat num => num -> Int -> Double
 roundTo floatNum numOfDecimals = read (showFFloat (Just numOfDecimals) floatNum "") :: Double
