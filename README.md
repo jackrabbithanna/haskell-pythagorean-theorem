@@ -8,10 +8,10 @@ User enters lengths of two sides of triangle, and the number of decimal places t
 
 Uses the Haskell Tool Stack https://docs.haskellstack.org/en/stable/README/
 
-Installing Haskell Stack
+##Installing Haskell Stack
 https://docs.haskellstack.org/en/stable/GUIDE/#downloading-and-installation
 
-After installing Haskell Stack
+##After installing Haskell Stack
 
 git clone https://github.com/jackrabbithanna/haskell-pythagorean-theorem.git
 
