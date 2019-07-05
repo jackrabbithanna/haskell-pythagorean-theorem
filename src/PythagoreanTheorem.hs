@@ -1,5 +1,5 @@
 module PythagoreanTheorem
     ( hypotenuse
     ) where
-hypotenuse :: Floating x => x -> x -> x
+hypotenuse :: Floating c => c -> c -> c
 hypotenuse a b = sqrt (a * a + b * b)
